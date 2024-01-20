@@ -1,10 +1,3 @@
-import tkinter as tk
-from http.server import BaseHTTPRequestHandler, HTTPServer
-import urllib.request
-import random
-import time
-from tkinter import messagebox
-import multiprocessing
 root = tk.Tk()
 root.resizable(False, False)
 root.geometry("450x350")
