@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
-  "func": ["Install", "Hashing"],
-  "Install": "install"
+  "func": ["Install", "localHTML", "Hashing"],
+  "Install": "install",
+  "localHTML": "localhtml"
 }
